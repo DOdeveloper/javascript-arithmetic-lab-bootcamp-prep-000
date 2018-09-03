@@ -1,6 +1,6 @@
 var a;
 var b;
 
-function(a, b) {
+function add(a, b) {
   return a + b;
 }
